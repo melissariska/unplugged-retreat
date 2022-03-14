@@ -218,6 +218,7 @@ footer .social-icons {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  width: 12.5em;
 }
 
 footer .social-icons p {
